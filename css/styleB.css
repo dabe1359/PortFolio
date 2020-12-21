@@ -1,0 +1,216 @@
+/*
+img
+{
+    background-color: snow;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 15%;
+}
+*/
+
+body
+{
+    background-color: #292b2c;
+}
+#dealersCards, #decoration
+{
+    padding-top: 3%;
+}
+
+.Buttons :hover
+{
+    cursor: pointer;
+}
+
+#table
+{
+    margin-left: auto;
+    margin-right: 280px;
+    padding-bottom: 1%;
+    width: 80%;
+    height: 80%;
+    border: 15px solid black;
+    border-radius: 40%;
+    background-color: #5d9c00;
+
+}
+#Hit,#Stand,#double,#SplitMe,#HitSplit,#StandSplit
+{
+    margin-top: 10px;
+    border: 4px solid rgb(38, 36, 36);
+    width: 120px;
+    margin-right: 130px;
+}
+#PlayBtn
+{
+    margin-top: 10px;
+    border: 4px solid rgb(38, 36, 36);
+    width: 110px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+#dealersCards
+{
+    margin-top: 2%;
+}
+
+.showing>p
+{
+    text-align: center;
+    font-size: 22px;
+    font-weight: 650;
+}
+
+.Chips
+{
+    height: 90px;
+    cursor: pointer;
+}
+
+.betChips
+{
+    height: 40px;
+}
+
+#balance
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 450;
+    font-size: 24px;
+    text-align: center;
+    color: whitesmoke;
+}
+#bet
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 550;
+    font-size: 24px;
+    text-align: center;
+    color: black;
+}
+#BetMin
+{
+    width: 130px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+.showChips
+{
+    font-size: 24px;
+}
+
+#arrowBlue
+{
+    transform: scale(0);
+    /*display: none;*/
+    cursor: pointer;
+    margin-left: 3%;
+    margin-top: 1%;
+    font-size: 50px;
+    color: rgb(9, 85, 129);
+    /*transform: scale(0);*/
+}
+
+#arrowPurple
+{
+    transform: scale(0);
+    /*display: none;*/
+    cursor: pointer;
+    margin-left: 0%;
+    margin-top: 1%;
+    font-size: 50px;
+    color: rgb(80, 9, 80);
+}
+#arrowRed
+{
+    transform: scale(0);
+    /*display: none;*/
+    cursor: pointer;
+    margin-left: 0%;
+    margin-top: 1%;
+    font-size: 50px;
+    color: rgb(130, 4, 4);
+}
+#arrowGreen
+{
+    transform: scale(0);
+    /*display: none;*/
+    cursor: pointer;
+    margin-left: 0%;
+    margin-top: 1%;
+    font-size: 50px;
+    color: rgb(12, 70, 4);
+}
+#arrowBlack
+{
+    transform: scale(0);
+    /*display: none;*/
+    cursor: pointer;
+    margin-left: 0%;
+    margin-top: 1%;
+    font-size: 50px;
+    color: rgb(15, 19, 15);
+}
+
+#carouselId>.PlayButton {
+    top: 50%;
+    bottom: 50%;
+    width: 5%;
+}
+
+#BetList
+{
+    display: inline-block;
+    text-align: center;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 20px;
+    list-style: none;
+    color: rgb(196, 7, 7);
+    border-style: outset;
+    border: 3px solid whitesmoke;
+    width : 130px;
+    align-items: center;
+    margin-top: 20px;
+      
+}
+#BetList>#Max
+{
+    display: inline-block;
+}
+
+#Logo
+{
+    display: inline-block;
+    margin-left: 5%;
+}
+#logoBlack
+{
+    margin-top: -15px;
+}
+
+#ATM
+{
+    margin: 30px;
+    margin-top: 100px;
+    margin-bottom: 70px;
+    cursor: pointer;
+    width: 140px;
+
+}
+#bet
+{
+    position: absolute;
+    margin-left: 630px;
+}
+
+#Logo, #table
+{
+    margin-top: 15px;
+}
+#Backi
+{
+    margin-right: 100px;
+}
